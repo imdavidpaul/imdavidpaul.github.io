@@ -1,5 +1,5 @@
 
-## Hello!, this is my portfolio
+## Hello! this is my portfolio
 
 ```
 imdavidpaul.github.io
